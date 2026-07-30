@@ -1,14 +1,37 @@
-# nfl-big-data-bowl-2026-prediction
-Exploratory Data Analysis for the NFL Big Data Bowl 2026
-# 🏈 NFL Big Data Bowl 2026 - Prediction & Analysis
+<h1 align="center">🏈 NFL Big Data Bowl 2026 — Advanced Kinematic Analytics</h1>
 
-Welcome to my repository for the **Kaggle NFL Big Data Bowl 2026** competition! This project focuses on analyzing player movement and tracking data while the football is in the air.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Domain-Sports%20Analytics%20%26%20AI-blue?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Institution-CMC%20Casablanca--Settat-orange?style=for-the-badge&logo=school" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellowgreen?style=for-the-badge&logo=powerbi" />
+</p>
 
-## 📁 Repository Contents
-- **analyse_exploratoire.ipynb**: Jupyter notebook containing the exploratory data analysis (EDA), data cleaning, and statistical visualizations.
+---
 
-## 🚀 How to View
-You can view the notebook directly in your browser by clicking on `NFL.ANALYSE.ipynb` above. GitHub will automatically render the plots, markdown cells, and code blocks.
+## 📌 About the Project
 
-## 👤 Author
-**Houda Harras**
+This repository hosts the capstone project by **Houda Harras**, completed as part of the **Specialized Technician in Artificial Intelligence &  Data Analyst** program at the *Cité des Métiers et des Compétences (CMC) Casablanca-Settat* (2025–2026).
+
+The study investigates NFL player tracking telemetry data to model and analyze the kinematic behavior of players during the phase when the ball is in the air (*pass in the air*).
+
+---
+
+## 🎯 Business Problem & Core Question
+
+> **"How do defensive players adjust their trajectory and speed based on the anticipated ball landing position?"**
+
+* **Main Objective:** Quantify the dynamic reaction capabilities of defenders, analyze the influence of tactical roles (*Defensive Coverage*), and measure the correlation between initial distance to the impact point and acceleration.
+
+---
+
+## 🏗️ Repository Architecture
+
+```text
+📦 
+ ┣ 📂 data/                 # Raw datasets and contextual files (CSV)
+ ┣ 📂 notebooks/            # Exploratory Data Analysis (EDA) Jupyter Notebook
+ ┣ 📂 dashboard/            # Interactive Power BI business intelligence dashboard (.pbix)
+ ┣ 📂 reports/              # Official formatted academic report (.pdf)
+ ┗ 📂 assets/               # Exported charts and screenshots
