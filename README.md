@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 This repository hosts the capstone project by **Houda Harras**, completed as part of the **Specialized Technician in Artificial Intelligence &  Data Analyst** program at the *Cité des Métiers et des Compétences (CMC) Casablanca-Settat* (2025–2026).
 
@@ -18,7 +18,7 @@ The study investigates NFL player tracking telemetry data to model and analyze t
 
 ---
 
-## 🎯 Business Problem & Core Question
+##  Business Problem & Core Question
 
 > **"How do defensive players adjust their trajectory and speed based on the anticipated ball landing position?"**
 
@@ -26,12 +26,12 @@ The study investigates NFL player tracking telemetry data to model and analyze t
 
 ---
 
-## 🏗️ Repository Architecture
+##  Repository Architecture
 
 ```text
-📦 
- ┣ 📂 data/                 # Raw datasets and contextual files (CSV)
- ┣ 📂 notebooks/            # Exploratory Data Analysis (EDA) Jupyter Notebook
- ┣ 📂 dashboard/            # Interactive Power BI business intelligence dashboard (.pbix)
- ┣ 📂 reports/              # Official formatted academic report (.pdf)
- ┗ 📂 assets/               # Exported charts and screenshots
+ 
+ ┣  data/                 # Raw datasets and contextual files (CSV)
+ ┣  notebooks/            # Exploratory Data Analysis (EDA) Jupyter Notebook
+ ┣  dashboard/            # Interactive Power BI business intelligence dashboard (.pbix)
+ ┣  reports/              # Official formatted academic report (.pdf)
+ ┗  assets/               # Exported charts and screenshots
