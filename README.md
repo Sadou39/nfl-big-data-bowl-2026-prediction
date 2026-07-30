@@ -8,7 +8,7 @@ Welcome to my repository for the **Kaggle NFL Big Data Bowl 2026** competition! 
 - **analyse_exploratoire.ipynb**: Jupyter notebook containing the exploratory data analysis (EDA), data cleaning, and statistical visualizations.
 
 ## 🚀 How to View
-You can view the notebook directly in your browser by clicking on `analyse_exploratoire.ipynb` above. GitHub will automatically render the plots, markdown cells, and code blocks.
+You can view the notebook directly in your browser by clicking on `NF.ANALYSE.ipynb` above. GitHub will automatically render the plots, markdown cells, and code blocks.
 
 ## 👤 Author
 **Houda Harras**
